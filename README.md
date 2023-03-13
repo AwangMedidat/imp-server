@@ -79,7 +79,7 @@ To deploy this project run
 #### Delete item
 
 ```http
-  Delete /api/v1/posts/${id}
+  DELETE /api/v1/posts/${id}
 ```
 
 | Parameter | Type     | Description                       |
